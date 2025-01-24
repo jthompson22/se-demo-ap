@@ -28,7 +28,7 @@ async function BlogList() {
               <div className="flex-1">
                 <div className="flex justify-between items-center">
                   <div>
-                    <h2 className="text-xl font-semibold text-primary">
+                    <h2 className="text-xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
                       {post.title}
                     </h2>
                     <time className="text-sm text-primary/60">
